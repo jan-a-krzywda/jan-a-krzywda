@@ -18,17 +18,16 @@
 
 My research is dedicated to **developing scalable and robust quantum technologies** by integrating principles from system engineering, quantum physics, machine learning, and control theory.
 
-I focus on solving fundamental challenges in quantum computing not just through theory, but by developing practical tools, algorithms, and **Digital Twins** that bridge the gap between theoretical models and real-world hardware implementation.
+In this unique interdisciplinary approach, I aim to focus on solving fundamental challenges in quantum computing by developing practical tools, algorithms, and systems that bridge the gap between theoretical understanding and real-world implementation.
 
-### 🚀 Key Objectives
+### Key Objectives
 
-| Objective | Description |
-| :--- | :--- |
-| **Democratize Quantum** | Make quantum concepts accessible through education and interactive tools. |
-| **Accelerate Dev Cycles** | Create Digital Twins and simulation platforms for faster quantum system development. |
-| **Robust Control** | Develop real-time feedback systems for noise mitigation and parameter optimization. |
-| **Quantum AI** | Explore the intersection of quantum computing and AI for hardware control and new theoretical insights. |
-| **Standardization** | Promote open-source frameworks and community-driven standards for quantum engineering. |
+* **Democratize Quantum Technology**: Make quantum concepts accessible through education and interactive tools.
+* **Accelerate Quantum Development**: Create digital twins and simulation platforms for faster quantum system development.
+* **Enable Robust Quantum Control**: Develop real-time feedback systems for noise mitigation and parameter optimization.
+* **Advance Quantum ML**: Explore practical applications of quantum learning algorithms on noisy intermediate-scale quantum devices.
+* **Data-Driven Approach**: Explore the intersection of quantum computing and AI for controlling hardware and generating new theoretical insights.
+* **Standardize Quantum Systems**: Promote open-source frameworks and community-driven standards for hardware and software.
 
 ---
 
@@ -37,7 +36,6 @@ I focus on solving fundamental challenges in quantum computing not just through 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-blue?style=flat)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -48,35 +46,37 @@ I focus on solving fundamental challenges in quantum computing not just through 
 
 ### ⚙️ [Scalable Semiconductor Spin Qubits](https://github.com/jaq-lab)
 *Focus: Architectures for large-scale quantum processors.*
-- **Long-range transfer:** Developing coherent spin qubit shuttle mechanisms.
-- **Q-wire architecture:** Full-stack spin qubit control design.
-- **Drift mitigation:** Real-time stabilization techniques for semiconductor devices.
+- Developing long-range coherent spin qubit transfer mechanisms.
+- Q-wire architecture for scalable full-stack spin qubit control.
+- Real-time stabilization and drift mitigation techniques.
+- Digital twin platforms for device simulation and optimization.
 
-### 🎛️ [System Engineering for Quantum](https://github.com/jaq-lab/system-engineering-for-quantum-computing)
+### 🎛️ [System Engineering for Quantum Computing](https://github.com/jaq-lab/system-engineering-for-quantum-computing)
 *Focus: The "Operating System" for quantum hardware.*
-- **Standardized Control:** Software frameworks for heterogeneous quantum hardware.
-- **Adaptive Feedback:** Real-time control loops (Bayesian/RL) for qubit stabilization.
-- **Digital Twins:** High-fidelity device simulators for offline training and testing.
+- Standardized control software frameworks for quantum hardware.
+- Real-time feedback and adaptive control loops for qubit stabilization.
+- Quantum device digital twins for accelerated development and testing.
+- Community-driven open-source tools for quantum system engineering.
 
 ### 🧠 [Quantum Learning Machines](https://github.com/jaq-lab/quantum-learning-machines)
 *Focus: AI on noisy intermediate-scale quantum (NISQ) devices.*
-- **Quantum Reservoir Computing:** Processing temporal data on noisy quantum hardware.
-- **Generative Models:** Using quantum noise as a resource for generative AI.
-- **RL Agents:** Reinforcement learning for autonomous calibration.
+Practical use of noisy quantum devices for data-driven learning. Our research explores:
+- Quantum Machine Learning Algorithms for Current Devices.
+- Reinforcement Learning with Quantum Agents.
+- Reservoir Computing for Generative and Temporal Data.
 
-### 🔍 [Interpretable AI for Physics](https://github.com/jaq-lab)
+### 🔍 [Interpretable AI for Quantum Discoveries](https://github.com/jaq-lab)
 *Focus: Making AI a partner in scientific discovery.*
-- **World Models:** Learning the dynamics of quantum evolution from data.
-- **Automated Discovery:** AI agents that identify phase transitions and optimal control pulses.
+- Quantum Games (Erratic).
+- World Models for Quantum Evolution.
 
 ---
 
-## 🕹️ After Hours
+## 🕹️ After Hours Projects
 
 When I'm not building quantum systems, I explore complexity in other forms:
 - **Game Dev:** Collaborating with my 6-year-old on game logic and design.
 - **Motorsport Analytics:** Analyzing telemetry data to optimize racing lines.
-- **Education:** Founder of a science channel with **880k+ views**.
 
 ---
 
@@ -111,6 +111,6 @@ When I'm not building quantum systems, I explore complexity in other forms:
 
 **Building the Quantum Future, One System at a Time**
 
-[Website](https://jan-a-krzywda.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourhandle)
+[Website](https://jan-a-krzywda.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Research Organization](https://github.com/jaq-lab)
 
 </div>

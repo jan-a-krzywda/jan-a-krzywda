@@ -7,7 +7,7 @@
 *Bridging system engineering, quantum physics, machine learning, and control theory to build the next generation of quantum systems.*
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-jan--a--krzywda.com-blue?style=for-the-badge&logo=safari)](https://jan-a-krzywda.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%3A%20500%2B-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%3A%20500%2B-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HAbQfbIAAAAJ&hl=en&oi=ao)
 [![Research Organization](https://img.shields.io/badge/Research-jaq--lab-green?style=for-the-badge&logo=github)](https://github.com/jaq-lab)
 
 </div>

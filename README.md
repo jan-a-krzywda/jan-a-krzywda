@@ -46,29 +46,30 @@ In this unique interdisciplinary approach, I aim to focus on solving fundamental
 
 ### ⚙️ [Scalable Semiconductor Spin Qubits](https://github.com/jaq-lab)
 *Focus: Architectures for large-scale quantum processors.*
-- Developing long-range coherent spin qubit transfer mechanisms.
+- Developing long-range coherent spin qubit transfer mechanisms. 
+- Noise and disorder simulation tools.
 - Q-wire architecture for scalable full-stack spin qubit control.
-- Real-time stabilization and drift mitigation techniques.
-- Digital twin platforms for device simulation and optimization.
 
 ### 🎛️ [System Engineering for Quantum Computing](https://github.com/jaq-lab/system-engineering-for-quantum-computing)
 *Focus: The "Operating System" for quantum hardware.*
-- Standardized control software frameworks for quantum hardware.
+- Standardized control software frameworks for quantum hardware. 
 - Real-time feedback and adaptive control loops for qubit stabilization.
-- Quantum device digital twins for accelerated development and testing.
-- Community-driven open-source tools for quantum system engineering.
+- Quantum device digital twins for model-based control and accelerated development and testing.
+
+
+
+
 
 ### 🧠 [Quantum Learning Machines](https://github.com/jaq-lab/quantum-learning-machines)
 *Focus: AI on noisy intermediate-scale quantum (NISQ) devices.*
-Practical use of noisy quantum devices for data-driven learning. Our research explores:
-- Quantum Machine Learning Algorithms for Current Devices.
-- Reinforcement Learning with Quantum Agents.
-- Reservoir Computing for Generative and Temporal Data.
+- Quantum Machine Learning Algorithms for Current Devices: in-preperation
+- Reinforcement Learning with Quantum Agents: in-preperation
+- Reservoir Computing for Generative and Temporal Data: in-preperation
 
 ### 🔍 [Interpretable AI for Quantum Discoveries](https://github.com/jaq-lab)
 *Focus: Making AI a partner in scientific discovery.*
-- Quantum Games (Erratic).
-- World Models for Quantum Evolution.
+- Quantum Games (Erratic):
+- World Models for Quantum Evolution: 
 
 ---
 

@@ -38,7 +38,7 @@ Democratizing semiconductor spin qubits by developing foundational architectures
 ### 2. Real-Time Tracking & Quantum Error Correction
 Bridging low-level hardware fluctuations with high-level logic. This focuses on estimating the state of noisy systems on the fly to keep qubits stable over many cycles.
 * **[Real-Time Bayesian Tracking](https://github.com/jan-a-krzywda/quantum-bayesian-tracking)** (WIP): Algorithms for estimating and tracking qubit drift on microsecond timescales.
-* **[Quantum Error Correction (QEC)](https://github.com/jan-a-krzywda/qec-gym):** Ongoing projects applying sequential decision-making to the decoding problem.
+* **[Quantum Error Correction (QEC)](https://github.com/jaq-lab/qec-gym):** Ongoing projects applying sequential decision-making to the decoding problem.
 
 ### 3. Active Quantum Control & Reinforcement Learning
 Applying active inference, world models, and representation learning to quantum control. By building efficient representations, autonomous agents can plan and execute control policies directly on the hardware.
@@ -71,7 +71,7 @@ Using the mathematical machinery of statistical physics to understand and improv
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
 ![QuTiP](https://img.shields.io/badge/QuTiP-%231E90FF.svg?style=flat&logo=QuTiP&logoColor=white)
-![pytket-qiskit](https://img.shields.io/badge/pytket--qiskit-005288?style=flat)
+![pytket](https://img.shields.io/badge/pytket--qiskit-005288?style=flat)
 
 </div>
 
@@ -92,12 +92,11 @@ Using the mathematical machinery of statistical physics to understand and improv
 ## 🕹️ After Hours Projects
 
 When I'm not building quantum systems, I explore complexity in other forms:
-* **[arXiv Digest](https://jan-a-krzywda.com/arxivaria):** Curating and summarizing selected arXiv papers in spin-qubits, quantum control, quantum machine learning, and physics-inspired AI.
+* **[arXiv Digest](https://jan-a-krzywda.com/arxivaria):**(WIP) Curating and summarizing selected arXiv papers in spin-qubits, quantum control, quantum machine learning, and physics-inspired AI.
 * **[Outreach](https://www.youtube.com/@jakmatura-fizyka207):** Running *JakMatura - Fizyka*, an educational physics channel for high school students.
 * **Motorsport Analytics:** Analyzing motorsport data to uncover hidden patterns and insights, with a focus on Formula 1 *(TBA)*.
-* **Music:** Playing the piano and listening to Chopin.
 * **[Being a Dad](https://www.instagram.com/quantum_papa/):** Living the adventure of parenthood.
-* **[Handmade Passion](https://atelier-daily-elegance.store/):** Supporting my wife's passion and our handmade clothing brand, Atelier Daily Elegance.
+* **[Handmade Passion](https://atelier-daily-elegance.store/):** Supporting my wife's passion and our handmade clothing brand, *Atelier Daily Elegance*.
 
 ---
 
@@ -105,6 +104,6 @@ When I'm not building quantum systems, I explore complexity in other forms:
 
 **Building the Quantum Future, One System at a Time**
 
-[Website](https://jan-a-krzywda.com) • [LinkedIn](https://www.linkedin.com/in/jan-a-krzywda-489a59315/) • [Research Organization](https://github.com/jaq-lab)
+[Website](https://jan-a-krzywda.com) • [LinkedIn](https://www.linkedin.com/in/jan-a-krzywda-489a59315/) • [Research Organization](https://www.universiteitleiden.nl/en/staffmembers/jan-krzywda#tab-1)
 
 </div>

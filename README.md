@@ -79,18 +79,13 @@ Using the mathematical machinery of statistical physics to understand and improv
 
 ## 📚 Latest Publications
 
-*Below are my 5 most recent works. For the complete list, please see [PUBLICATIONS.md](./PUBLICATIONS.md).*
-TODO
-<div align="center">
-
-**[📄 View Complete Publication List](./PUBLICATIONS.md)**
+*Below are my 5 most recent works. For the complete list, please see 📄 [PUBLICATIONS.md](publications.md).*
 1. O. Danaci, Y. J. Patel, R. Molteni, E. van Nieuwenburg, V. Dunjko & J. A. Krzywda. **Evidence of Quantum Machine Learning Advantage with Tens of Noisy Qubits.** (2026). [[arXiv:2605.21346]](https://arxiv.org/abs/2605.21346)
 2. J. A. Krzywda\*, Y. Matsumoto\*, M. De Smet\*, L. Tryputen, S. L. de Snoo, S. V. Amitonov, E. van Nieuwenburg, G. Scappucci, & L. M. K. Vandersypen. **Coherence Protection for Mobile Spin Qubits in Silicon.** (2026). *(\*equal contribution, experimental paper, in review for Phys. Rev. X).* [[arXiv:2602.09179]](https://arxiv.org/abs/2602.09179)
 3. F. Berritta, J. Benestad, J. A. Krzywda, O. Krause, M. A. Marciniak, S. Krøjer, et al. **Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits.** *Phys. Rev. X* 16, 011025 (2026). [[Link]](https://journals.aps.org/prx/abstract/10.1103/gk1b-stl3)
 4. F. Berritta, J. A. Krzywda, T. Dvir, P. Buttles, S. Eilhart, J. Danon, & F. Kuemmeth. **Operating a bistable qubit.** (2026). *(In review for Phys Rev. App).* [[arXiv:2605.03187]](https://arxiv.org/abs/2605.03187)
 5. S. Samadi, Ł. Cywiński & J. A. Krzywda. **Statistical Structure of Charge Disorder in Si/SiGe Quantum Dots.** (2025). *(Accepted in Phys. Rev. App).* [[arXiv:2510.13578]](https://arxiv.org/abs/2510.13578)
 
-</div>
 
 ---
 

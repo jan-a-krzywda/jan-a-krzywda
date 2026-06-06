@@ -7,9 +7,9 @@
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-jan--a--krzywda.com-blue?style=for-the-badge&logo=safari)](https://jan-a-krzywda.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations%3A%20500%2B-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HAbQfbIAAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-a-krzywda-489a59315/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jakmatura-fizyka207)
+[![alt text](image.png)](https://aqa.liacs.nl/)
 </div>
 
 ---
@@ -26,7 +26,7 @@ My goal is to close the feedback loop across the quantum computing stack. To ach
 
 ### 1. Hardware Architectures, Simulators & Databases
 Democratizing semiconductor spin qubits by developing foundational architectures and open-source tools to utilize the massive scaling potential of these devices.
-* **Conveyor Belt Shuttling:** A foundational theoretical proposal for continuous coherent electron shuttling that has become a hardware standard, culminating in a recent experimental demonstration. [cite_start]Foundation paper: [*Physical Review B* 101, 035303 (2020)](https://doi.org/10.1103/PhysRevB.101.035303) [cite: 118, 119][cite_start], Recent experimental demonstration: [*arXiv:2602.09179* (2026)](https://arxiv.org/abs/2602.09179)[cite: 107, 108].
+* **Conveyor Belt Shuttling:** A foundational theoretical proposal for continuous coherent electron shuttling that has become a hardware standard, culminating in a recent experimental demonstration. Foundation paper: [*PRX Quantum 4, 020305 (2023)*](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020305), Recent experimental demonstration: [*arXiv:2602.09179* (2026)](https://arxiv.org/abs/2602.09179).
 * **[QDarts](https://github.com/qplai/QDarts):** A quantum dot array transition simulator.
 * **[Readspyn](https://github.com/jan-a-krzywda/ReadSpyn):** Simulation frameworks for multi-qubit arrays and noise spectroscopy.
 * **[SQalar](https://github.com/jan-a-krzywda/SQalar):** Tools for scalable quantum architectures.
@@ -44,7 +44,7 @@ Applying active inference, world models, and representation learning to quantum 
 
 ### 4. Quantum Learning Machines
 [cite_start]Leveraging coherent processing to learn directly from quantum data[cite: 202]. [cite_start]This research treats physical hardware limitations as a feature to find practical machine learning advantages on near-term devices[cite: 234].
-* **[QML Advantage](https://github.com/jan-a-krzywda/demonstraing-quantum-advantage):** Evidence of machine learning advantage using noisy qubits.
+* **[QML Advantage](https://github.com/jaq-lab/noisy-learning-advantage):** Evidence of machine learning advantage using noisy qubits.
 * **Physical-AI with Quantum Computers:** Integrating physical AI architectures with quantum computation *(TBA)*.
 * **Quantum Games:** Citizen science platforms that harvest human intuition to train control models.
     * **[QEC Game (Erratiq)](https://erratiq.xyz/)**

@@ -23,36 +23,40 @@ My goal is to close the feedback loop across the quantum computing stack. To ach
 ---
 
 ## 🗂️ Research Subjects & Open Source
+My research spans throught the quantum computing stack, starting from the physics of semiconductor spin qubits, to real-time tracking and quantum error correction, to active control with reinforcement learning, and finally to quantum machine learning. I also explore physics-inspired approaches to classical machine learning.
 
 ### 1. Hardware Architectures, Simulators & Databases
 Democratizing semiconductor spin qubits by developing foundational architectures and open-source tools to utilize the massive scaling potential of these devices.
-* **Conveyor Belt Shuttling:** A foundational theoretical proposal for continuous coherent electron shuttling that has become a hardware standard, culminating in a recent experimental demonstration. Foundation paper: [*PRX Quantum 4, 020305 (2023)*](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020305), Recent experimental demonstration: [*arXiv:2602.09179* (2026)](https://arxiv.org/abs/2602.09179).
+* **[Charge Noise Simulation and Spectroscopy](https://github.com/jan-a-krzywda/charge-noise-spin-qubits):** Effetive models of charge noise in quantum dot arrays and developing tools for noise spectroscopy.
+* **[Conveyor Belt Shuttling](https://github.com/jaq-lab/mobile-qubit-protection):** A foundational theoretical proposal for continuous coherent electron shuttling: [*PRX Quantum 4, 020305 (2023)*](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020305), Recent experimental demonstration: [*arXiv:2602.09179* (2026)](https://arxiv.org/abs/2602.09179).
 * **[QDarts](https://github.com/qplai/QDarts):** A quantum dot array transition simulator.
 * **[Readspyn](https://github.com/jan-a-krzywda/ReadSpyn):** Simulation frameworks for multi-qubit arrays and noise spectroscopy.
-* **[SQalar](https://github.com/jan-a-krzywda/SQalar):** Tools for scalable quantum architectures.
-* **[SpinBase](https://github.com/jan-a-krzywda/SpinBase):** A catalogue of quantum algorithms and papers specifically for spin qubits.
+* **SQalar**(WIP) Tools for scalable quantum architectures.
+* **SpinBase**(WIP) A catalogue of quantum algorithms and papers specifically for spin qubits.
 
 ### 2. Real-Time Tracking & Quantum Error Correction
 Bridging low-level hardware fluctuations with high-level logic. This focuses on estimating the state of noisy systems on the fly to keep qubits stable over many cycles.
-* **[Real-Time Bayesian Tracking](https://github.com/jan-a-krzywda/Quantum-Bayesian-Tracking):** Algorithms for estimating and tracking qubit drift on microsecond timescales.
+* **[Real-Time Bayesian Tracking](https://github.com/jan-a-krzywda/quantum-bayesian-tracking):**(WIP) Algorithms for estimating and tracking qubit drift on microsecond timescales.
 * **[Quantum Error Correction (QEC)](https://github.com/jan-a-krzywda/qec-gym):** Ongoing projects applying sequential decision-making to the decoding problem.
 
 ### 3. Active Quantum Control & Reinforcement Learning
 Applying active inference, world models, and representation learning to quantum control. By building efficient representations, autonomous agents can plan and execute control policies directly on the hardware.
-* **[World-Models of Quantum Devices](https://github.com/jan-a-krzywda/quantum-active-control):** Using latent spaces to compress the complexity of quantum systems for autonomous control.
-* **[Quantum-gym](https://github.com/jan-a-krzywda/quantum-gym):** Environments for training reinforcement learning agents on quantum hardware tasks.
+* **[Controllability Analysis](https://github.com/jan-a-krzywda/qdot-disorder-structure):** Using principal component analysis to analyze the controllability of quantum dot arrays under realistic disorder.
+* **[World-Models of Quantum Devices](https://github.com/jan-a-krzywda/quantum-active-control):**(WIP) Using latent spaces to compress the complexity of quantum systems for autonomous control.
+* **[Quantum-gym](https://github.com/jan-a-krzywda/quantum-gym):**(WIP) Environments for training reinforcement learning agents on quantum hardware tasks.
+
 
 ### 4. Quantum Learning Machines
-[cite_start]Leveraging coherent processing to learn directly from quantum data[cite: 202]. [cite_start]This research treats physical hardware limitations as a feature to find practical machine learning advantages on near-term devices[cite: 234].
+Leveraging coherent processing to learn directly from quantum data. This research treats physical hardware limitations as a feature to find practical machine learning advantages on near-term devices.
 * **[QML Advantage](https://github.com/jaq-lab/noisy-learning-advantage):** Evidence of machine learning advantage using noisy qubits.
-* **Physical-AI with Quantum Computers:** Integrating physical AI architectures with quantum computation *(TBA)*.
+* **Physical-AI with Quantum Computers:**(WIP) Integrating physical AI architectures with quantum computation.
 * **Quantum Games:** Citizen science platforms that harvest human intuition to train control models.
     * **[QEC Game (Erratiq)](https://erratiq.xyz/)**
 
 ### 5. Physics-Inspired Classical Machine Learning
 Using the mathematical machinery of statistical physics to understand and improve classical deep learning architectures.
-* **Neural Network Pruning:** Discovering universal scaling laws and phase transitions in pruning capacity *(TBA)*.
-* **Physics-Informed Architectures:** Applying statistical mechanics frameworks directly to AI design *(TBA)*.
+* **Neural Network Pruning:** (TBA) Discovering universal scaling laws and phase transitions in pruning capacity.
+* **Physics-Informed Architectures:** (TBA) Applying statistical mechanics frameworks directly to AI design.
 
 ---
 

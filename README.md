@@ -38,7 +38,7 @@ Democratizing semiconductor spin qubits by developing foundational architectures
 ### 2. Real-Time Tracking & Quantum Error Correction
 Bridging low-level hardware fluctuations with high-level logic. This focuses on estimating the state of noisy systems on the fly to keep qubits stable over many cycles.
 * **[Real-Time Bayesian Tracking](https://github.com/jan-a-krzywda/quantum-bayesian-tracking)** (WIP): Algorithms for estimating and tracking qubit drift on microsecond timescales.
-* **[Quantum Error Correction (QEC)](https://github.com/jaq-lab/qec-gym):** Ongoing projects applying sequential decision-making to the decoding problem.
+* **[Quantum Error Correction (QEC)](https://github.com/jaq-lab/qec-gym):** (WIP) Ongoing projects applying sequential decision-making to the decoding problem.
 
 ### 3. Active Quantum Control & Reinforcement Learning
 Applying active inference, world models, and representation learning to quantum control. By building efficient representations, autonomous agents can plan and execute control policies directly on the hardware.

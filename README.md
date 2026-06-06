@@ -1,4 +1,3 @@
-```markdown
 # Jan A. Krzywda
 
 <div align="center">
@@ -121,4 +120,3 @@ When I'm not building quantum systems, I explore complexity in other forms:
 
 </div>
 
-```

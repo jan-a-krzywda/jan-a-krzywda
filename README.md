@@ -28,7 +28,7 @@ My research spans through the quantum computing stack, starting from the physics
 
 ### 1. Hardware Architectures, Simulators & Databases
 Democratizing semiconductor spin qubits by developing foundational architectures and open-source tools to utilize the massive scaling potential of these devices.
-* **[Charge Noise Simulation and Spectroscopy](https://github.com/jan-a-krzywda/charge-noise-spin-qubits):** Effective models of charge noise in quantum dot arrays and developing tools for noise spectroscopy.
+* **Charge Noise Simulation and Spectroscopy:**(WIP) Effective models of charge noise in quantum dot arrays and developing tools for noise spectroscopy.
 * **[Conveyor Belt Shuttling](https://github.com/jaq-lab/mobile-qubit-protection):** Latest experimental demonstration of protecting qubits during shuttling. In the past contributed to the development of a conveyor belt architecture.
 * **[QDarts](https://github.com/qplai/QDarts):** A quantum dot array transition simulator.
 * **[Readspyn](https://github.com/jan-a-krzywda/ReadSpyn):** Simulation frameworks for multi-qubit arrays and noise spectroscopy.
@@ -37,14 +37,14 @@ Democratizing semiconductor spin qubits by developing foundational architectures
 
 ### 2. Real-Time Tracking & Quantum Error Correction
 Bridging low-level hardware fluctuations with high-level logic. This focuses on estimating the state of noisy systems on the fly to keep qubits stable over many cycles.
-* **[Real-Time Bayesian Tracking](https://github.com/jan-a-krzywda/quantum-bayesian-tracking)** (WIP): Algorithms for estimating and tracking qubit drift on microsecond timescales.
-* **[Quantum Error Correction (QEC)](https://github.com/jaq-lab/qec-gym):** (WIP) Ongoing projects applying sequential decision-making to the decoding problem.
+* **Real-Time Bayesian Tracking** (WIP): Algorithms for estimating and tracking qubit drift on microsecond timescales.
+* **Quantum Error Correction (QEC)** (WIP) Ongoing projects applying sequential decision-making to the decoding problem.
 
 ### 3. Active Quantum Control & Reinforcement Learning
 Applying active inference, world models, and representation learning to quantum control. By building efficient representations, autonomous agents can plan and execute control policies directly on the hardware.
 * **[Controllability Analysis](https://github.com/jan-a-krzywda/qdot-disorder-structure):** Using principal component analysis to analyze the controllability of quantum dot arrays under realistic disorder.
-* **[World-Models of Quantum Devices](https://github.com/jan-a-krzywda/quantum-active-control)** (WIP): Using latent spaces to compress the complexity of quantum systems for autonomous control.
-* **[Quantum-gym](https://github.com/jan-a-krzywda/quantum-gym)** (WIP): Environments for training reinforcement learning agents on quantum hardware tasks.
+* **World-Models of Quantum Devices** (WIP): Using latent spaces to compress the complexity of quantum systems for autonomous control.
+* **Quantum-gym** (WIP): Environments for training reinforcement learning agents on quantum hardware tasks.
 
 ### 4. Quantum Learning Machines
 Leveraging coherent processing to learn directly from quantum data. This research treats physical hardware limitations as a feature to find practical machine learning advantages on near-term devices.
@@ -55,8 +55,8 @@ Leveraging coherent processing to learn directly from quantum data. This researc
 
 ### 5. Physics-Inspired Classical Machine Learning
 Using the mathematical machinery of statistical physics to understand and improve classical deep learning architectures.
-* **Neural Network Pruning** (TBA): Discovering universal scaling laws and phase transitions in pruning capacity.
-* **Physics-Informed Architectures** (TBA): Applying statistical mechanics frameworks directly to AI design.
+* **Neural Network Pruning** (WIP): Discovering universal scaling laws and phase transitions in pruning capacity.
+* **Physics-Informed Architectures** (WIP): Applying statistical mechanics frameworks directly to AI design.
 
 ---
 
@@ -92,7 +92,7 @@ Using the mathematical machinery of statistical physics to understand and improv
 ## 🕹️ After Hours Projects
 
 When I'm not building quantum systems, I explore complexity in other forms:
-* **[arXiv Digest](https://jan-a-krzywda.com/arxivaria):**(WIP) Curating and summarizing selected arXiv papers in spin-qubits, quantum control, quantum machine learning, and physics-inspired AI.
+* **arXiv Digest:**(WIP) Curating and summarizing selected arXiv papers in spin-qubits, quantum control, quantum machine learning, and physics-inspired AI.
 * **[Outreach](https://www.youtube.com/@jakmatura-fizyka207):** Running *JakMatura - Fizyka*, an educational physics channel for high school students.
 * **Motorsport Analytics:** Analyzing motorsport data to uncover hidden patterns and insights, with a focus on Formula 1 *(TBA)*.
 * **[Being a Dad](https://www.instagram.com/quantum_papa/):** Living the adventure of parenthood.
